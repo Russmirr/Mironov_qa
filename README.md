@@ -1,4 +1,5 @@
-# Mironov_qa[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1q8hcBHWmUvb9VzryidcCeQL8gqWRGExXJHqGPCQN088/edit?usp=sharing)
+# Mironov_qa
+[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1q8hcBHWmUvb9VzryidcCeQL8gqWRGExXJHqGPCQN088/edit?usp=sharing)
 
 ---
 
