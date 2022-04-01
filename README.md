@@ -7,8 +7,7 @@
 
 ---
 
-[Пример моего тест плана][https://docs.google.com/document/d/1a_8zmccsSwxaaOMltSvOsp2C46j3YUeE/edit?usp=sharing&ouid=111356573153826679069&rtpof=true&sd=true](url)
-
+[Пример моего тест плана](https://docs.google.com/document/d/1a_8zmccsSwxaaOMltSvOsp2C46j3YUeE/edit?usp=sharing&ouid=111356573153826679069&rtpof=true&sd=true)
 
 ---
 
