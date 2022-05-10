@@ -3,6 +3,10 @@
 
 ---
 
+[Пример моих тест кейсов 2](https://docs.google.com/spreadsheets/d/1ho8Flj9kwyjw9Y39F2-ZhMsIwx4YI7BnWOWycek_ias/edit?usp=sharing)
+
+---
+
 [Пример моей доски в Jira](https://drive.google.com/file/d/1R5bqk19nGTi_Wz1cON5rlDCpTOQRTI64/view?usp=sharing)
 
 ---
@@ -18,5 +22,7 @@
 [Пример моего тест плана](https://docs.google.com/document/d/1a_8zmccsSwxaaOMltSvOsp2C46j3YUeE/edit?usp=sharing&ouid=111356573153826679069&rtpof=true&sd=true)
 
 ---
+
+
 
 
